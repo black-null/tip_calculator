@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CalculerPourboire" parent="Theme.Material3.Light">
+
+<!--        <item name="actionBarWidgetTheme">@style/Widget.AppCompat.ActionBar</item>-->
+<!--        <item name="actionBarStyle">@style/Theme.MaterialComponents.DayNight.DarkActionBar</item>-->
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<!--        <item name="android:windowActionBar">?attr/colorPrimary</item>-->
+<!--        <item name="android:statusBarColor">#C5C5C5</item>-->
+    </style>
+
+    <style name="Theme.CalculerPourboire" parent="Base.Theme.CalculerPourboire" />
+</resources>
